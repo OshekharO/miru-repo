@@ -14,6 +14,7 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | girigiri爱动漫 | anime.girigirilove.com | v0.0.2 | appdevelpo | zh | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/anime.girigirilove.com.js) |
 | Animeazu | animeazu.com | v0.0.1 | JerukPurut404 | pr | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/animeazu.com.js) |
 | Animepahe | animepahe.ru | v0.0.2 | appdevelpo | en | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/animepahe.ru.js) |
+| Animxer | animxer.xyz | v0.0.1 | OshekharO | en | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/animxer.xyz.js) |
 | 音悦台MTV | api.yinyuetai | v0.0.2 | vvsolo | zh | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/api.yinyuetai.js) |
 | Arabsama | arabsama.net | v0.0.1 | JerukPurut404 | ar | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/arabsama.net.js) |
 | AsuraScan | asuratoon.com | v0.0.1 | bethro | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/asuratoon.com.js) |
@@ -47,6 +48,7 @@ Miru extensions repository | [Miru App Download](https://github.com/miru-project
 | Komikcast | komikcast.lol | v0.0.1 | bethro | all | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/komikcast.lol.js) |
 | Letv影院 | letv.im | v0.0.1 | appdevelpo | zh | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/letv.im.js) |
 | libvio | libvio.pro | v0.0.2 | appdevelpo | zh | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/libvio.pro.js) |
+| LilyManga | lilymanga.net | v0.0.1 | bethro | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/lilymanga.net.js) |
 | LayarKaca | lk21official | v0.0.1 | OshekharO | id | bangumi | [Source Code](https://github.com/miru-project/repo/blob/main/repo/lk21official.js) |
 | MangaLife | manga4life.com | v0.0.1 | appdevelpo | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/manga4life.com.js) |
 | MangaBat | mangabat.com | v0.0.1 | bethro | en | manga | [Source Code](https://github.com/miru-project/repo/blob/main/repo/mangabat.com.js) |

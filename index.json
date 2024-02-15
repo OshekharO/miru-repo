@@ -101,6 +101,18 @@
   "webSite": "https://animepahe.ru"
  },
  {
+  "author": "OshekharO",
+  "icon": "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/favicon.ico",
+  "lang": "en",
+  "license": "MIT",
+  "name": "Animxer",
+  "package": "animxer.xyz",
+  "type": "bangumi",
+  "url": "animxer.xyz.js",
+  "version": "v0.0.1",
+  "webSite": "https://api.anime-dex.workers.dev"
+ },
+ {
   "author": "vvsolo",
   "icon": "https://www.yinyuetai.com/images/favicon.ico",
   "lang": "zh",
@@ -639,6 +651,18 @@
   "url": "libvio.pro.js",
   "version": "v0.0.2",
   "webSite": "https://www.libvio.pro"
+ },
+ {
+  "author": "bethro",
+  "icon": "https://lilymanga.net/wp-content/uploads/2019/12/cropped-2Prancheta-1-192x192.png",
+  "lang": "en",
+  "license": "MIT",
+  "name": "LilyManga",
+  "package": "lilymanga.net",
+  "type": "manga",
+  "url": "lilymanga.net.js",
+  "version": "v0.0.1",
+  "webSite": "https://lilymanga.net"
  },
  {
   "author": "OshekharO",
@@ -1340,7 +1364,7 @@
   "package": "wnacg.com",
   "type": "manga",
   "url": "wnacg.com.js",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "webSite": "https://www.wnacg.com"
  },
  {
