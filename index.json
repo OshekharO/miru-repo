@@ -51,18 +51,6 @@
   "webSite": "https://api.amvstr.me/api/v2"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://aniwatch.to/images/android-chrome-512x512.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "AniWatch",
-  "package": "ani.watch",
-  "type": "bangumi",
-  "url": "ani.watch.js",
-  "version": "v0.0.6",
-  "webSite": "https://proxy.techzbots1.workers.dev/?u=https://aniwatch.to"
- },
- {
   "author": "(koikiss-dev)",
   "description": "https://github.com/koikiss-dev/jimov_api",
   "icon": "https://animeflv.vc/static/img/icon/logo.png",
@@ -474,8 +462,8 @@
   "package": "gogo.anime",
   "type": "bangumi",
   "url": "gogo.anime.js",
-  "version": "v0.0.4",
-  "webSite": "https://api-consumet-6adls650k-saurabhgangule.vercel.app/anime/gogoanime"
+  "version": "v0.0.5",
+  "webSite": "https://goraku-api.vercel.app/anime/gogoanime"
  },
  {
   "author": "appdevelpo",
@@ -502,6 +490,18 @@
   "url": "hentaidexy.net.js",
   "version": "v0.0.1",
   "webSite": "https://backend.hentaidexy.net"
+ },
+ {
+  "author": "OshekharO",
+  "icon": "https://hianime.to/favicon.ico",
+  "lang": "en",
+  "license": "MIT",
+  "name": "HiAnime",
+  "package": "hianime.to",
+  "type": "bangumi",
+  "url": "hianime.to.js",
+  "version": "v0.0.7",
+  "webSite": "https://hianime.to"
  },
  {
   "author": "OshekharO",
@@ -689,6 +689,31 @@
   "url": "lk21official.js",
   "version": "v0.0.1",
   "webSite": "https://tv3.lk21official.wiki"
+ },
+ {
+  "author": "bethro",
+  "icon": "https://manga-lek.net/wp-content/mangalek.png",
+  "lang": "ar",
+  "license": "MIT",
+  "name": "Manga-lek.net",
+  "package": "manga-lek.net",
+  "type": "manga",
+  "url": "manga-lek.net.js",
+  "version": "v0.0.1",
+  "webSite": "https://manga-lek.net"
+ },
+ {
+  "author": "bethro",
+  "icon": "https://manga1k.com/wp-content/uploads/2023/08/6-2-1.png",
+  "lang": "en",
+  "license": "MIT",
+  "name": "Manga1k",
+  "nsfw": "true",
+  "package": "manga1k.com",
+  "type": "manga",
+  "url": "manga1k.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://manga1k.com"
  },
  {
   "author": "appdevelpo",
@@ -1220,6 +1245,18 @@
   "webSite": "https://www.supercartoons.net"
  },
  {
+  "author": "bethro",
+  "icon": "https://swatmanhua.com/images/logo_light.png",
+  "lang": "ar",
+  "license": "MIT",
+  "name": "swatmanhua",
+  "package": "swatmanhua.com",
+  "type": "manga",
+  "url": "swatmanhua.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://swatmanhua.com"
+ },
+ {
   "author": "appdevelpo",
   "icon": "https://tamilyogi.plus/wp-content/uploads/2021/06/ty.png",
   "lang": "hi-ta",
@@ -1268,6 +1305,18 @@
   "url": "themoviearchive.js",
   "version": "v0.0.2",
   "webSite": "https://api.themoviedb.org/3"
+ },
+ {
+  "author": "bethro",
+  "icon": "https://i.ibb.co/XtNNVVT/AR-TH-WEB.png",
+  "lang": "ar",
+  "license": "MIT",
+  "name": "thunderscans",
+  "package": "thunderscans.com",
+  "type": "manga",
+  "url": "thunderscans.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://thunderscans.com"
  },
  {
   "author": "zj",
