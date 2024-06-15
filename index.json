@@ -102,18 +102,6 @@
   "webSite": "https://animepahe.ru"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/favicon.ico",
-  "lang": "en",
-  "license": "MIT",
-  "name": "Animxer",
-  "package": "animxer.xyz",
-  "type": "bangumi",
-  "url": "animxer.xyz.js",
-  "version": "v0.0.1",
-  "webSite": "https://api.anime-dex.workers.dev"
- },
- {
   "author": "vvsolo",
   "icon": "https://www.yinyuetai.com/images/favicon.ico",
   "lang": "zh",
@@ -160,7 +148,7 @@
   "package": "baozimh.com",
   "type": "manga",
   "url": "baozimh.com.js",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "webSite": "https://www.baozimh.com"
  },
  {
@@ -187,6 +175,18 @@
   "url": "best.light.novel.js",
   "version": "v0.0.1",
   "webSite": "https://bestlightnovel.com"
+ },
+ {
+  "author": "yxxyun",
+  "icon": "https://m.bi17.cc/favicon.ico",
+  "lang": "zh-cn",
+  "license": "MIT",
+  "name": "笔趣阁",
+  "package": "bqg.cc",
+  "type": "fikushon",
+  "url": "bqg.cc.js",
+  "version": "v0.0.1",
+  "webSite": "https://m.bi17.cc"
  },
  {
   "author": "MiaoMint",
@@ -312,20 +312,8 @@
   "package": "comick.app",
   "type": "manga",
   "url": "comick.app.js",
-  "version": "v0.0.4",
-  "webSite": "https://api.comick.cc"
- },
- {
-  "author": "OshekharO",
-  "icon": "https://revuestarlight.bushimo.jp/wp-content/themes/revuestarlight/assets/images/common/favicon.ico",
-  "lang": "en",
-  "license": "MIT",
-  "name": "Comrademao",
-  "package": "comrademao",
-  "type": "fikushon",
-  "url": "comrademao.js",
-  "version": "v0.0.3",
-  "webSite": "https://comrademao.com"
+  "version": "v0.0.5",
+  "webSite": "https://api.comick.io"
  },
  {
   "author": "MiaoMint",
@@ -388,7 +376,7 @@
   "type": "bangumi",
   "url": "filmycab.js",
   "version": "v0.0.2",
-  "webSite": "https://filmycab.mom"
+  "webSite": "https://afilmyhub.online"
  },
  {
   "author": "appdevelpo",
@@ -416,16 +404,16 @@
   "webSite": "https://flamecomics.com/"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://flixhq.ws/images/logo.png",
-  "lang": "all",
+  "author": "funtoons",
+  "icon": "https://funtoons.online/wp-content/themes/mangareader/assets/images/android-chrome-192x192.png",
+  "lang": "th",
   "license": "MIT",
-  "name": "Flixhq",
-  "package": "flixhq.to",
-  "type": "bangumi",
-  "url": "flixhq.to.js",
-  "version": "v0.0.4",
-  "webSite": "https://api-consumet-dki0eyw6n-shirogohan.vercel.app/movies/flixhq"
+  "name": "Funtoons",
+  "package": "funtoons.online",
+  "type": "manga",
+  "url": "funtoons.online.js",
+  "version": "v0.0.1",
+  "webSite": "https://funtoons.online"
  },
  {
   "author": "bachig26",
@@ -462,8 +450,8 @@
   "package": "gogo.anime",
   "type": "bangumi",
   "url": "gogo.anime.js",
-  "version": "v0.0.5",
-  "webSite": "https://goraku-api.vercel.app/anime/gogoanime"
+  "version": "v0.0.6",
+  "webSite": "https://public-miruro-consumet-api.vercel.app/anime/gogoanime"
  },
  {
   "author": "appdevelpo",
@@ -500,8 +488,22 @@
   "package": "hianime.to",
   "type": "bangumi",
   "url": "hianime.to.js",
-  "version": "v0.0.7",
+  "version": "v0.0.8",
   "webSite": "https://hianime.to"
+ },
+ {
+  "author": "Nazz",
+  "icon": "https://vip.idlixofficial.net/wp-content/uploads/2020/06/idlix.png",
+  "lang": "id",
+  "license": "MIT",
+  "name": "IDLIX",
+  "nsfw": "false",
+  "package": "idlix",
+  "tags": "movie,tvseries,anime,english",
+  "type": "bangumi",
+  "url": "idlix.js",
+  "version": "v0.0.2",
+  "webSite": "https://vip.idlixofficial.net"
  },
  {
   "author": "OshekharO",
@@ -512,8 +514,8 @@
   "package": "invidious.io",
   "type": "bangumi",
   "url": "invidious.io.js",
-  "version": "v0.0.1",
-  "webSite": "https://invidious.slipfox.xyz/api/v1"
+  "version": "v0.0.2",
+  "webSite": "https://vid.puffyan.us/api/v1"
  },
  {
   "author": "vvsolo",
@@ -640,6 +642,20 @@
   "url": "komikcast.lol.js",
   "version": "v0.0.1",
   "webSite": "https://komikcast.lol"
+ },
+ {
+  "author": "Nazz",
+  "icon": "https://komiku.com/wp-content/uploads/2022/03/cropped-ico-komiku-180x180.jpg",
+  "lang": "id",
+  "license": "MIT",
+  "name": "Komiku.com",
+  "nsfw": "false",
+  "package": "komiku.com",
+  "tags": "indonesia",
+  "type": "manga",
+  "url": "komiku.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://komiku.com"
  },
  {
   "author": "appdevelpo",
@@ -825,6 +841,19 @@
   "webSite": "https://manganato.com"
  },
  {
+  "author": "ftbom",
+  "icon": "https://www.manhuadb.com/assets/www/img/favicon.png",
+  "lang": "zh",
+  "license": "MIT",
+  "name": "漫画DB",
+  "nsfw": "false",
+  "package": "manhuadb.com",
+  "type": "manga",
+  "url": "manhuadb.com.js",
+  "version": "v0.0.1",
+  "webSite": "https://www.manhuadb.com"
+ },
+ {
   "author": "appdevelpo",
   "icon": "https://www.manhuagui.com/favicon.ico",
   "lang": "zh-cn",
@@ -900,19 +929,6 @@
   "url": "movieku.lol.js",
   "version": "v0.0.3",
   "webSite": "https://movieku.lol"
- },
- {
-  "author": "OshekharO",
-  "icon": "https://tlimg.b-cdn.net/wp-content/uploads/2023/07/MTLNATION-icon.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "Mtlnation",
-  "nsfw": "false",
-  "package": "mtlnation.com",
-  "type": "fikushon",
-  "url": "mtlnation.com.js",
-  "version": "v0.0.2",
-  "webSite": "https://api.mtlnation.com"
  },
  {
   "author": "MiaoMint",
@@ -1018,6 +1034,20 @@
   "webSite": "https://onejav.com"
  },
  {
+  "author": "Nazz",
+  "icon": "https://otakudesu.cloud/wp-content/uploads/2017/06/Logo-1.png",
+  "lang": "id",
+  "license": "MIT",
+  "name": "Otakudesu",
+  "nsfw": "false",
+  "package": "otakudesu",
+  "tags": "anime,indonesia",
+  "type": "bangumi",
+  "url": "otakudesu.js",
+  "version": "v0.0.1",
+  "webSite": "https://otakudesu.cloud"
+ },
+ {
   "author": "OshekharO",
   "icon": "https://javgg.net/wp-content/uploads/2020/07/140_Gg_logo_logos-512.png",
   "lang": "jp",
@@ -1119,18 +1149,6 @@
   "webSite": "https://readcomicsonline.ru"
  },
  {
-  "author": "OshekharO",
-  "icon": "https://readlightnovels.net/wp-content/uploads/2020/01/rln-logo-ret.png",
-  "lang": "en",
-  "license": "MIT",
-  "name": "ReadLN",
-  "package": "readlightnovels",
-  "type": "fikushon",
-  "url": "readlightnovels.js",
-  "version": "v0.0.2",
-  "webSite": "https://api-consumet-h3n5a059y-kingarthurs-projects.vercel.app/light-novels/readlightnovels"
- },
- {
   "author": "MiaoMint",
   "lang": "zh-cn",
   "license": "MIT",
@@ -1164,7 +1182,7 @@
   "package": "royalroad.com",
   "type": "fikushon",
   "url": "royalroad.com.js",
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "webSite": "https://www.royalroad.com"
  },
  {
@@ -1178,6 +1196,20 @@
   "url": "sakura.js",
   "version": "v0.0.2",
   "webSite": "https://www.vdm8.com"
+ },
+ {
+  "author": "Nazz",
+  "icon": "https://samehadaku.email/wp-content/uploads/2020/04/cropped-download-1-192x192.jpg",
+  "lang": "id",
+  "license": "MIT",
+  "name": "Samehadaku",
+  "nsfw": "false",
+  "package": "samehadaku",
+  "tags": "anime,indonesia",
+  "type": "bangumi",
+  "url": "samehadaku.js",
+  "version": "v0.0.1",
+  "webSite": "https://samehadaku.email"
  },
  {
   "author": "appdevelpo",
@@ -1570,7 +1602,7 @@
  },
  {
   "author": "OshekharO",
-  "icon": "https://yomovies.town/wp-content/uploads/2023/12/120.jpg",
+  "icon": "https://yomovies.loan/wp-content/uploads/2023/12/120.jpg",
   "lang": "hi",
   "license": "MIT",
   "name": "YoMovies",
@@ -1578,8 +1610,8 @@
   "package": "yomovies",
   "type": "bangumi",
   "url": "yomovies.js",
-  "version": "v0.0.5",
-  "webSite": "https://yomovies.town"
+  "version": "v0.0.7",
+  "webSite": "https://yomovies.loan"
  },
  {
   "author": "appdevelpo",
